@@ -14,9 +14,9 @@
 ## 👤 Members
 | PM | FE | FE | BE | BE |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="이미지주소2" width="100"/> | <img src="이미지주소3" width="100"/> | <img src="../assets/박영서.jpg" width="100"/> | <img src="이미지주소5" width="100"/> | <img src="이미지주소6" width="100"/> |
+| <img src="이미지주소2" width="100"/> | <img src="이미지주소3" width="100"/> | <img src="../assets/박영서.jpg" width="100"/> | <img src="../assets//강지윤.jpg" width="100"/> | <img src="이미지주소6" width="100"/> |
 | 박수현 | 박서현 | 박영서 | 강지윤 | 박수빈 |
-| - | 로그인 페이지<br>회원가입 페이지<br>온보딩 페이지<br>홈 페이지<br>히스토리 페이지 | 스플래시 페이지<br>기록 페이지<br>예보 페이지<br>미션 페이지<br>마이페이지 | 예보 (통계·AI 코멘트)<br> 미션 (AI 미션 생성)<br>원인 타임라인·뱃지<br>배포 | 로그인·회원가입<br>온보딩 설문<br>일일 기록<br>홈<br>히스토리<br>마이페이지 |
+| - | 로그인 페이지<br>회원가입 페이지<br>온보딩 페이지<br>홈 페이지<br>히스토리 페이지 | 스플래시 페이지<br>기록 페이지<br>예보 페이지<br>미션 페이지<br>마이페이지 | 예보 통계<br>AI 예보 코멘트<br>AI 미션 생성<br>원인 타임라인<br>뱃지<br>배포 | 로그인·회원가입<br>온보딩 설문<br>일일 기록<br>홈<br>히스토리<br>마이페이지 |
 
 ## 🛠 TECH STACK
 <h3 align="center">Frontend</h3>
