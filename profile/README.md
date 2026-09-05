@@ -1,4 +1,5 @@
 # 스킨어스 SKINEARTH
+<img src="../assets/main.png" width="auto"/>
 
 ## 🌍 ABOUT SKINEARTH
 - 프로젝트 한 줄 소개
