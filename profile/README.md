@@ -83,3 +83,4 @@
 
 - 📝 **Notion** — [SKINEARTH Workspace](https://daisy-licorice-73f.notion.site/likelion-skinearth?pvs=74)
 - 📑 **Swagger** — [SKINEARTH API Documentation](https://skinearth-api.up.railway.app/swagger-ui/index.html#/)
+- 🎨 **Figma** — [SKINEARTH Figma Design](https://www.figma.com/files/team/1631929564551131955/folder/631111401?fuid=1458373486563603398)
