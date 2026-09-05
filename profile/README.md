@@ -73,17 +73,11 @@
 ### 미션
 ### 사용자 관리
 
-## 📁 PROJECT STRUCTURE
-### Frontend
-### Backend
-
-
 ## 🚀 DEPLOYMENT
 ### Service URL
 
 > SKINEARTH<br>
 > https://skinearth.vercel.app 
-
 
 ## 📚 WORKSPACE
 
